@@ -28,6 +28,7 @@ if(session.getAttribute("username")!=null){
     <div class="col-md">
   			<div class="card shadow">
   				<div class="card-body">
+					<div><h4>Demo Login - (User: Demo , Pass: GuestDemo)</h4></div>
   					<form method="post">
 						  <div class="form-group">
 						    <label for="exampleInputEmail1">Username</label>
